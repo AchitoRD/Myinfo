@@ -19,8 +19,8 @@
 🟡 **[SummerCraft](https://discord.gg/5CEqXxWxE6)**  
 🎮 Servidor de Minecraft con características únicas y comunidad activa.
 
-🔴 **[Soom]([https://github.com/tu-usuario/otro-proyecto)]**  
-✨ Breve descripción del proyecto y su impacto.
+🔴 **[Soom]([https://github.com/tu-usuario/otro-proyecto)**  
+✨ .
 
 ---
 
