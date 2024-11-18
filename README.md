@@ -24,8 +24,6 @@
 🟡 **[Minedux](https://github.com/tu-usuario/otro-proyecto)**  
 ✨  Servidor de Minecraft con características únicas y comunidad activa.
 
-🔴 **[Proximamente]()**  
-📋 Proximamente.
 
 ---
 
