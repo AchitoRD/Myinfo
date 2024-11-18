@@ -17,14 +17,15 @@
 
 ## 📂 Proyectos destacados  
 ⎯ ❐ ⤬  
-🟢 **[Mi Proyecto MongoDB](https://github.com/tu-usuario/mi-proyecto-mongodb)**  
-📋 Un ejemplo práctico para realizar operaciones CRUD con bases de datos MongoDB desde Node.js.
 
-🟡 **[SummerCraft](https://discord.gg/5CEqXxWxE6)**  
+🟢 **[SummerCraft](https://discord.gg/5CEqXxWxE6)**  
 🎮 Servidor de Minecraft con características únicas y comunidad activa.
 
-🔴 **[Soom](https://github.com/tu-usuario/otro-proyecto)**  
-✨ Proyecto destacado en desarrollo.
+🟡 **[Minedux(https://github.com/tu-usuario/otro-proyecto)**  
+✨  Servidor de Minecraft con características únicas y comunidad activa.
+
+🔴 **[Proximamente]()**  
+📋 Proximamente.
 
 ---
 
