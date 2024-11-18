@@ -1,3 +1,7 @@
+🔴🟡🟢  
+# AchitoRD  
+⎯ ❐ ⤬  
+
 👋 ¡Hola! Soy **AchitoRD**, un apasionado de la tecnología, la programación y la creatividad. Me encanta construir cosas increíbles y explorar nuevas herramientas para resolver problemas de manera única. 🛠️✨  
 
 ---
@@ -6,7 +10,7 @@
 ⎯ ❐ ⤬  
 - 🌟 **Desarrollador full-stack en crecimiento.**  
 - 📚 Actualmente aprendiendo **MongoDB**, **Node.js**, y más sobre bases de datos.  
-- 💻 Amante de los retos técnicos y los proyectos colaborativos.  
+- 💻 Experto en la creación de servidores de Minecraft, bots de Telegram, páginas web y aplicaciones.  
 - 🎮 Fanático de los videojuegos y creador ocasional de contenido relacionado.  
 
 ---
@@ -19,8 +23,8 @@
 🟡 **[SummerCraft](https://discord.gg/5CEqXxWxE6)**  
 🎮 Servidor de Minecraft con características únicas y comunidad activa.
 
-🔴 **[Soom]([https://github.com/tu-usuario/otro-proyecto)**  
-✨ .
+🔴 **[Soom](https://github.com/tu-usuario/otro-proyecto)**  
+✨ Proyecto destacado en desarrollo.
 
 ---
 
@@ -33,13 +37,14 @@
 
 🖥️ **Herramientas y plataformas:**  
 - 💻 Visual Studio Code, Git, GitHub  
-- 🌐 APIs REST, Docker (básico)
+- 🌐 APIs REST, Docker (básico)  
 
 ---
 
 ## 💬 Contáctame  
 ⎯ ❐ ⤬  
 Si tienes alguna idea interesante o quieres colaborar en un proyecto, ¡no dudes en contactarme! 😄  
-📧 **Correo:** elachitofalso@hotmail.com
+📧 **Correo:** elachitofalso@hotmail.com  
 🐦 **Twitter:** [@AchitoRD](https://twitter.com/AchitoRD)  
-💼 **LinkedIn:** [Soonn(https://linkedin.com/in/tu-nombre)  
+💼 **LinkedIn:** [Soon](https://linkedin.com/in/tu-nombre)  
+
