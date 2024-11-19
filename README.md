@@ -12,6 +12,7 @@
 - 📚 Actualmente aprendiendo **MongoDB**, **Node.js**, y más sobre bases de datos.  
 - 💻 Experto en la creación de servidores de Minecraft, bots de Telegram, páginas web y aplicaciones.  
 - 🎮 Fanático de los videojuegos y creador ocasional de contenido relacionado.  
+- 🎆 Minedux Network Manager desde hace (5 años)
 
 ---
 
